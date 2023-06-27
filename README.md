@@ -2,7 +2,7 @@
 
   🎓Tecnico em Desenvolvimento de Sistemas.
 
-<h6>💬Contact-me💬</h6
+<h6>💬Contact-me💬</h6>
 <p align="center">
     <a href="https://www.linkedin.com/in/LucasAndres/">
       <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/>
