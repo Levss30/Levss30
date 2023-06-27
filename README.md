@@ -15,13 +15,13 @@
 
 <h1>________________________________________________________________________</h1>
   
-  <h3>• Softwares •</h3>
-  <p>Visual Studio Code</p>
-  <p>Visual Studio</p>
-  <p>Eclipse</p>
-  <p>Postman</p>
-  <p>BrModelo</p>
-  <p>SQL Server Management Studio</p>
+  <h3>Softwares mais usados</h3>
+  <p>• Visual Studio Code</p>
+  <p>• Visual Studio</p>
+  <p>• Eclipse</p>
+  <p>• Postman</p>
+  <p>• BrModelo</p>
+  <p>• SQL Server Management Studio</p>
   <br>
   
   <div class="status"  align="center"> 
