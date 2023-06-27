@@ -18,16 +18,13 @@
 
   🎓Tecnico em Desenvolvimento de Sistemas.
   
-  <br>
-
-  <h2>• Softwares •</h2>
+  <h4>• Softwares •</h4>
   <p>Visual Studio Code</p>
   <p>Visual Studio</p>
   <p>Eclipse</p>
   <p>Postman</p>
   <p>BrModelo</p>
   <p>SQL Server Management Studio</p>
-<h1>________________________________________________________________________</h1>
   <br>
   
   <div class="status"  align="center"> 
