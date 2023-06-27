@@ -15,7 +15,7 @@
 
 <h1>________________________________________________________________________</h1>
   
-  <h2>• Softwares •</h2>
+  <h3>• Softwares •</h3>
   <p>Visual Studio Code</p>
   <p>Visual Studio</p>
   <p>Eclipse</p>
