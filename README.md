@@ -1,7 +1,8 @@
 ### Oi! Me chamo Lucas Andres. Bem vindo ao meu perfil!
 
+  🎓Tecnico em Desenvolvimento de Sistemas.
 
-<h6>💬Contact-me💬</h6>
+<h6>💬Contact-me💬</h6
 <p align="center">
     <a href="https://www.linkedin.com/in/LucasAndres/">
       <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -13,12 +14,8 @@
 </p>
 
 <h1>________________________________________________________________________</h1>
-
-<br>
-
-  🎓Tecnico em Desenvolvimento de Sistemas.
   
-  <h4>• Softwares •</h4>
+  <h2>• Softwares •</h2>
   <p>Visual Studio Code</p>
   <p>Visual Studio</p>
   <p>Eclipse</p>
