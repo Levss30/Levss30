@@ -45,5 +45,3 @@
      </div>
 </div>
 
-![Snake animation](https://github.com/Levss30/Levss30/blob/output/github-contribution-grid-snake.svg)
-
