@@ -4,7 +4,7 @@
 <h6>___________________________________________________________________________________________________________________________________________________________________________</h6>
 <h6>💬Contact-me💬</h6>
 <p align="center">
-    <a href="https://www.linkedin.com/in/LucasAndres/">
+    <a href="https://www.linkedin.com/in/lucasandres">
       <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     <a href="mailto:Lucas.levasseur@gmail.com">
       <img alt=gmail src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
