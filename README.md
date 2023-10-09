@@ -21,6 +21,7 @@
   <p>• Postman</p>
   <p>• BrModelo</p>
   <p>• SQL Server Management Studio</p>
+  <p>• IntelliJ IDEA Community</p>
   <br>
   
   <div class="status"  align="center"> 
