@@ -14,7 +14,7 @@
 </p>
 <h1>________________________________________________________________________</h1>
   
-  <h3>Softwares mais usados</h3>
+  <h3>Softwares com mais conhecimento</h3>
   <p>• Visual Studio Code</p>
   <p>• Visual Studio</p>
   <p>• Eclipse</p>
