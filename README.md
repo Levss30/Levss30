@@ -1,5 +1,6 @@
 ## Ola!
-  🎓Tecnico em Desenvolvimento de Sistemas.
+  🎓Tecnico em Desenvolvimento de Sistemas pela instituição ETEC Professor Horácio Augusto da Silveira.
+  
   
 <h4>_______________________________________________________________________________________________________________________________________________</h4>
 
