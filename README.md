@@ -1,7 +1,4 @@
 ## Ola!
-  🎓Tecnico em Desenvolvimento de Sistemas pela instituição ETEC Professor Horácio Augusto da Silveira.
-  
-  
 <h4>_______________________________________________________________________________________________________________________________________________</h4>
 
 <h6>💬Contact-me💬</h6>
