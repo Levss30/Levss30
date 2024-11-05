@@ -29,10 +29,10 @@
 </div>
 <br>
 
-<div  align="center"> 
+<div  align="center">
+        <img align="left" height="180" alt="coding-time" src="./code.gif">
   <div style="display: inline_block">
       <br>
-    <img align="left" height="180" alt="coding-time" src="./code.gif">
     <h1 align="center">Tecnologias</h1>
     <img align="center" alt="C#" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
     <img align="center" alt="HTML" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
