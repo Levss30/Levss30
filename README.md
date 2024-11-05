@@ -29,8 +29,7 @@
 </div>
 <br>
 
-<div  align="center">
-      <br>
+<div align="center">
     <img align="left" height="180" alt="coding-time" src="./code.gif">
     <h1 align="center">Tecnologias</h1>
     <img align="center" alt="C#" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
