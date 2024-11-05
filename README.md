@@ -30,7 +30,6 @@
 <br>
 
 <div  align="center">
-  <div style="display: inline_block" width= "140px">
       <br>
     <img align="left" height="180" alt="coding-time" src="./code.gif">
     <h1 align="center">Tecnologias</h1>
