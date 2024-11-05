@@ -12,7 +12,7 @@
       
 <h1>________________________________________________________________________</h1>
   
-  <h3>Softwares com mais conhecimento 💡</h3>
+  <h3>Softwares</h3>
   <p>• Visual Studio Code</p>
   <p>• Visual Studio</p>
   <p>• Eclipse</p>
@@ -30,7 +30,8 @@
 <br>
 
 <div  align="center"> 
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block">
+      <br>
     <img align="left" height="180" alt="coding-time" src="./code.gif">
     <h1 align="center">Tecnologias</h1>
     <img align="center" alt="C#" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
