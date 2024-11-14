@@ -2,6 +2,8 @@
 
 <p>I'm 18 years old and a full stack developer, but focused on front-end, located in São Paulo, Brazil. 
     Passionate about technology and innovations, creating software according to</p>
+
+<br />
   
 <p align="left">
     <a href="https://www.linkedin.com/in/lucasandres30">
