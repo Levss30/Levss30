@@ -7,8 +7,6 @@
       <img alt=gmail src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
 </p>
-      
-<h1>________________________________________________________________________</h1>
   
   <h1>Focus softwares</h1>
   <p>• Visual Studio Code</p>
