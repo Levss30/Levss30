@@ -22,7 +22,7 @@
 
 <div align="center">
     <img align="left" height="180" alt="coding-time" src="./code.gif">
-    <h1 align="center">Focus technology</h1>
+    <h1 align="center" align="right">Focus technology</h1>
     <img align="center" alt="C#" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
     <img align="center" alt="React" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img align="center" alt="Next" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
