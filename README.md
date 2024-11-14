@@ -21,6 +21,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Levss30&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levss30&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
+<br>
 
 <div align="center">
     <img align="left" height="180" alt="coding-time" src="./code.gif">
