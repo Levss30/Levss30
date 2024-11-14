@@ -11,6 +11,7 @@
   <a href="mailto:Lucas.levasseur@gmail.com">
     <img alt=gmail src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+        <br />
 </p>    
 <div class="status"  align="center"> 
   <a href="https://github.com/Levss30">
