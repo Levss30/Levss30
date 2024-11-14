@@ -10,7 +10,7 @@
 
 <div align="center">
     <h1 align="center">Focus technology</h1>
-    <img align="center" alt="C#" height="35" width="45" src="https://camo.githubusercontent.com/9af99ac6ad555d390c4bd1bf1dc5a1958ebbb9e2b9e4c2086a3b9a8dcae1e842/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6578742e6a732d6666663f6c6f676f3d6e657874646f746a73266c6f676f436f6c6f723d626c61636b">
+    <img align="center" alt="C#" src="https://camo.githubusercontent.com/9af99ac6ad555d390c4bd1bf1dc5a1958ebbb9e2b9e4c2086a3b9a8dcae1e842/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6578742e6a732d6666663f6c6f676f3d6e657874646f746a73266c6f676f436f6c6f723d626c61636b">
     <img align="center" alt="React" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img align="center" alt="Next" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
     <img align="center" alt="TS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
