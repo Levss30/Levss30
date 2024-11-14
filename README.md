@@ -11,7 +11,7 @@
       
 <h1>________________________________________________________________________</h1>
   
-  <h3>Focus softwares</h3>
+  <h1>Focus softwares</h1>
   <p>• Visual Studio Code</p>
   <p>• Visual Studio</p>
   <br>
