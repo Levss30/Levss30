@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-    <h1 align="center">Focused on</h1>
+    <h2 align="center">Focused on</h2>
     <img align="center" alt="NextJs" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
     <img align="center" alt="React" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
     <img align="center" alt="TS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
