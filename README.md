@@ -15,11 +15,6 @@
 <br />
 
 </p>    
-<div class="status"  align="center"> 
-  <a href="https://github.com/Levss30">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Levss30&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levss30&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
 
 <div align="center">
     <h2 align="center">Focused on</h2>
