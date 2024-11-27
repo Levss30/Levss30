@@ -10,11 +10,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   <a href="mailto:Lucas.levasseur@gmail.com">
     <img alt=gmail src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-        
-<br />
-
+  </a>  
 </p>    
+
+<br />
 
 <div align="center">
     <h2 align="center">Focused on</h2>
