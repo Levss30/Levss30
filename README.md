@@ -1,7 +1,6 @@
 <h1> Lucas Andres </h1>
 
-<p>I'm 18 years old and a full stack developer, but focused on front-end, located in São Paulo, Brazil. 
-    Passionate about technology and innovations.</p>
+<p>I'm 18 years old and a full stack developer, but focused on front-end, located in São Paulo, Brazil.</p>
     
 <br />
 
